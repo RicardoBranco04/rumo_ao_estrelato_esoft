@@ -43,9 +43,10 @@
         <properties>
           <doubleBuffered value="false"/>
           <hideActionText value="true"/>
-          <horizontalAlignment value="0"/>
-          <horizontalTextPosition value="0"/>
+          <horizontalAlignment value="10"/>
+          <horizontalTextPosition value="10"/>
           <icon value="images/menu.png"/>
+          <rolloverEnabled value="false"/>
           <text value=""/>
           <verticalAlignment value="0"/>
           <verticalTextPosition value="0"/>
